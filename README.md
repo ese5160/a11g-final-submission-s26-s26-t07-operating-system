@@ -26,5 +26,7 @@
 Do *not* commit any of your source code to this repository. Rather, provide links to the other GitHub repository you've already been using with your firmware.
 
 - A link to your final embedded C firmware codebases
+  - Codebase located here: [https://github.com/ese5160/final-project-firmware-s26-t07-operating-system](https://github.com/ese5160/final-project-firmware-s26-t07-operating-system)
 - A link to your Node-RED dashboard code
+  - Dashboard:[ http://20.230.250.8:1880/dashboard](http://20.230.250.8:1880/dashboard)
 - Links to any other software required for the functionality of your device
