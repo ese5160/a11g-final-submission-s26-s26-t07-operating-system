@@ -6,12 +6,12 @@
 
 **Team Name:**
 
-| Team Member Name | Email Address | GitHub Username |
-| ---------------- | ------------- | --------------- |
-| [Name 1]         | [Email 1]     | [Username 1]    |
-| [Name 2]         | [Email 2]     | [Username 2]    |
+| Team Member Name  | Email Address          | GitHub Username |
+| ----------------- | ---------------------- | --------------- |
+| Sydney Fitzgerald | sydfitz@seas.upenn.edu | sydftz          |
+| Oscar Qu          | oscarqu@seas.upenn.edu | yiyiqu          |
 
-**GitHub Repository URL:**
+**GitHub Repository URL:** https://github.com/ese5160/a11g-final-submission-s26-s26-t07-operating-system
 
 ## 1. Video Presentation
 
