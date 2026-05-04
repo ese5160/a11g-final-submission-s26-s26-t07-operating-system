@@ -49,9 +49,9 @@ Through ESE5160, we learned a lot about designing an embedded system from start 
 
 **Project Links**
 
-Node-RED URL: http://20.230.250.8:1880/dashboard/demo
+Node-RED URL: [http://20.230.250.8:1880/dashboard/demo](http://20.230.250.8:1880/dashboard/demo)
 
-Final PCBA: https://upenn-eselabs.365.altium.com/designs/906A724F-71BC-4482-AF8C-505E2135AFCC?activeView=3D&variant=[No+Variations]&activeDocumentId=PCB-T07-Operating-System.PcbDoc#design
+Final PCBA: [https://upenn-eselabs.365.altium.com/designs/906A724F-71BC-4482-AF8C-505E2135AFCC?activeView=3D&amp;variant=[No+Variations]&amp;activeDocumentId=PCB-T07-Operating-System.PcbDoc#design](https://upenn-eselabs.365.altium.com/designs/906A724F-71BC-4482-AF8C-505E2135AFCC?activeView=3D&variant=[No+Variations]&activeDocumentId=PCB-T07-Operating-System.PcbDoc#design)
 
 ## 3. Hardware & Software Requirements
 
@@ -81,7 +81,7 @@ Final PCBA: https://upenn-eselabs.365.altium.com/designs/906A724F-71BC-4482-AF8C
 
 ![1777919869959](image/README/1777919869959.png)
 
-![1777919823222](image/README/1777919823222.png)![1777919838942](image/README/1777919838942.png)![1777919856651](image/README/1777919856651.png)![1777919939897](image/README/1777919939897.png)![1777919924106](image/README/1777919924106.png)![1777919994643](image/README/1777919994643.png)![1777919962407](image/README/1777919962407.png)![1777916304967](https://file+.vscode-resource.vscode-cdn.net/Users/oscarqu/Documents/Documents%20-%20Oscar%E2%80%99s%20MacBook%20Air/github/ese5160/a11g-final-submission-s26-s26-t07-operating-system/image/README/1777916304967.png)
+![1777919823222](image/README/1777919823222.png)![1777919838942](image/README/1777919838942.png)![1777919856651](image/README/1777919856651.png)![1777919939897](image/README/1777919939897.png)![1777919924106](image/README/1777919924106.png)![1777919994643](image/README/1777919994643.png)![1777919962407](image/README/1777919962407.png)![1777916304967](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/sydne/ese5160/a11g-final-submission-s26-s26-t07-operating-system/image/README/1777916304967.png)![1777916304967](https://file+.vscode-resource.vscode-cdn.net/Users/oscarqu/Documents/Documents%20-%20Oscar%E2%80%99s%20MacBook%20Air/github/ese5160/a11g-final-submission-s26-s26-t07-operating-system/image/README/1777916304967.png)
 
 ## 5. Codebase
 
